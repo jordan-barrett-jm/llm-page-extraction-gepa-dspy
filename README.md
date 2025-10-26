@@ -25,7 +25,8 @@ Our task is to automate the tagging of all pages within the report as containing
 LLM's are good zero-shot classifiers, meaning they can generalize to various classification tasks without requiring any additional training. That applies to our problem as well. However, while they are good, they aren't perfect. A classifier in a domain such as financial statement analysis needs to be perfect or at least get as close to that as possible. Another observation with LLM's is that their performance is significantly influenced by their context. 
 Meaning, your mileage varies significantly based on how well you can write a prompt for a given model. 
 This insight has spawned a new form of software design - prompt engineering. One of the major challenges with prompt engineering is that that prompt optimizations vary between models. Some strategies that were valid on older versions of a model might lead to deteriorated results, while being largely inconsequential on models from a different provider. [DSPy](https://dspy.ai/) attempts to fix that issue by offering universal APIs to define prompt input and output across models. 
-Moreover, prompt engineering can become an automated and much more formal exercise through the use of DSPy optimizers. The specific optimizer that we are interested in is [GEPA](https://arxiv.org/abs/2507.19457) - Genetic Pareto, which uses the LLM itself to update its system prompt in a reflexive manner.
+Moreover, prompt engineering can become an automated and much more formal exercise through the use of DSPy optimizers. 
+The specific optimizer that we are interested in is [GEPA](https://arxiv.org/abs/2507.19457) - Genetic Pareto, which uses the LLM itself to update its system prompt in a reflexive manner.
 
 What's interesting with GEPA is that it's been found to result in higher performance uplifts than standard model fine-tuning exercises, such as using GRPO (the paper found it to be 10-20% better on some benchmarks). Another benefit is that it doesn't require as many training examples to see significant performance uplift. Exciting!
 
@@ -42,7 +43,7 @@ I've provided the labelled files in this repo under the path `labels/labels.json
 
 ### LLM Input
 
-For the LLM input I scanned the PDFs and converted them to markdown. An alternative would have been to upload the PDFs directly or to convert them to images, however that would have been much more expensive in token usage. I used [olmocr](https://github.com/allenai/olmocr) to scan the PDFs but there are a lot of alternatives out there, such as dots.ocr or [Chandra](https://github.com/datalab-to/chandra). The `olmocr` model was just really easy to use since there was an endpoint already exposed for it on Deep Infra. I've included the raw PDFs used as well as their markdown versions in the `financial_pdfs` folder.
+For the LLM input I scanned the PDFs and converted them to markdown. An alternative would have been to upload the PDFs directly or to convert them to images, however that would have been much more expensive in token usage. I used [olmocr](https://github.com/allenai/olmocr) to scan the PDFs but there are a lot of alternatives out there, such as dots.ocr or [Chandra](https://github.com/datalab-to/chandra). The `olmocr` model was just really easy to use since there was an endpoint already exposed for it on Deep Infra. I've included the markdown versions in the `financial_pdfs` folder.
 
 ### Results
 
