@@ -40,9 +40,31 @@ https://github.com/user-attachments/assets/7828636c-8c07-43f4-88bb-7818a41da1ff
 
 I've provided the labelled files in this repo under the path `labels/labels.json` so you won't need to go through this process. One important note for producing training examples to use for your own prompt optimization use case though is that you should ensure that the format is as standardized as possible between examples. You basically want to ensure that the only thing that varies is the content.
 
-### Results
-
-
 ### LLM Input
 
 For the LLM input I scanned the PDFs and converted them to markdown. An alternative would have been to upload the PDFs directly or to convert them to images, however that would have been much more expensive in token usage. I used [olmocr](https://github.com/allenai/olmocr) to scan the PDFs but there are a lot of alternatives out there, such as dots.ocr or [Chandra](https://github.com/datalab-to/chandra). The `olmocr` model was just really easy to use since there was an endpoint already exposed for it on Deep Infra. I've included the raw PDFs used as well as their markdown versions in the `financial_pdfs` folder.
+
+### Results
+
+On the test set, the optimized model correctly labelled (without fault) 13/15 of the reports, up from 11/15 using the baseline model. That represented a 13.3% uplift in performance. Below is an example of what that looked like:
+
+<img width="2337" height="3445" alt="image" src="https://github.com/user-attachments/assets/ea31e35f-9e63-4692-99de-af0e4f7d824d" />
+
+Gold represents the human-labelled version (ground-truth). We see that with the improved prompt that the model was able to better detect that Company-level statements can be ignored when Group-level statements exist. This is a nuanced difference and it's pretty impressive that the model was able to learn that. 
+
+Below is a snapshot of the overall improvement of the model on 10 of the items in the test set:
+
+```
+               pdf_name  score_baseline  score_optimized  improvement
+EverythingFresh_2021...        0.611111         1.000000     0.388889
+Access-Financial-Ser...        0.888889         1.000000     0.111111
+Blue-Power-Group-Lim...        0.666667         0.777778     0.111111
+2023-Cargo-Handlers-...        1.000000         1.000000     0.000000
+Eppley-Quarterly-Rel...        1.000000         1.000000     0.000000
+IronRock-Annual-Repo...        1.000000         1.000000     0.000000
+Future-Energy-Source...        1.000000         1.000000     0.000000
+2023-June-30-DCOVE-Q...        1.000000         1.000000     0.000000
+JMMB-Group-Limited-U...        0.888889         0.888889     0.000000
+Annual-Report-2022-D...        1.000000         1.000000     0.000000
+
+```
