@@ -1,0 +1,728 @@
+{
+  "total_pdfs_downloaded": 120,
+  "random_seed": 42,
+  "s3_bucket": "finstatementsja",
+  "s3_prefix": "fsja-reports/",
+  "pdfs": [
+    {
+      "s3_key": "fsja-reports/QWI-Q2-2023-Report.pdf",
+      "local_path": "financial_pdfs/raw/QWI-Q2-2023-Report.pdf",
+      "filename": "QWI-Q2-2023-Report.pdf",
+      "size_bytes": 1002783
+    },
+    {
+      "s3_key": "fsja-reports/CARIB-FRAGRANCES-RPT-2018-1.pdf",
+      "local_path": "financial_pdfs/raw/CARIB-FRAGRANCES-RPT-2018-1.pdf",
+      "filename": "CARIB-FRAGRANCES-RPT-2018-1.pdf",
+      "size_bytes": 7150372
+    },
+    {
+      "s3_key": "fsja-reports/2022-4th-Qrt-Fin-Statement-ending-Dec-2022-JSE-Signed.pdf",
+      "local_path": "financial_pdfs/raw/2022-4th-Qrt-Fin-Statement-ending-Dec-2022-JSE-Signed.pdf",
+      "filename": "2022-4th-Qrt-Fin-Statement-ending-Dec-2022-JSE-Signed.pdf",
+      "size_bytes": 773318
+    },
+    {
+      "s3_key": "fsja-reports/Sagicor-Select-MD-Q3-2023.pdf",
+      "local_path": "financial_pdfs/raw/Sagicor-Select-MD-Q3-2023.pdf",
+      "filename": "Sagicor-Select-MD-Q3-2023.pdf",
+      "size_bytes": 514526
+    },
+    {
+      "s3_key": "fsja-reports/Future-Energy-Source-Company-Limited-FESCO-Unaudited-Q3-Report_period-ended-31DEC2022.pdf",
+      "local_path": "financial_pdfs/raw/Future-Energy-Source-Company-Limited-FESCO-Unaudited-Q3-Report_period-ended-31DEC2022.pdf",
+      "filename": "Future-Energy-Source-Company-Limited-FESCO-Unaudited-Q3-Report_period-ended-31DEC2022.pdf",
+      "size_bytes": 704218
+    },
+    {
+      "s3_key": "fsja-reports/FTNA-2nd-Quarter-Unaudited-Financials-2021-22.pdf",
+      "local_path": "financial_pdfs/raw/FTNA-2nd-Quarter-Unaudited-Financials-2021-22.pdf",
+      "filename": "FTNA-2nd-Quarter-Unaudited-Financials-2021-22.pdf",
+      "size_bytes": 257442
+    },
+    {
+      "s3_key": "fsja-reports/Everything-Fresh-2nd-quarter-2022-financial-statements.pdf",
+      "local_path": "financial_pdfs/raw/Everything-Fresh-2nd-quarter-2022-financial-statements.pdf",
+      "filename": "Everything-Fresh-2nd-quarter-2022-financial-statements.pdf",
+      "size_bytes": 1494385
+    },
+    {
+      "s3_key": "fsja-reports/CL-Financial-Stmts_Jun2022.pdf",
+      "local_path": "financial_pdfs/raw/CL-Financial-Stmts_Jun2022.pdf",
+      "filename": "CL-Financial-Stmts_Jun2022.pdf",
+      "size_bytes": 334245
+    },
+    {
+      "s3_key": "fsja-reports/Sagicor-Select-Financial-Q1-2023.pdf",
+      "local_path": "financial_pdfs/raw/Sagicor-Select-Financial-Q1-2023.pdf",
+      "filename": "Sagicor-Select-Financial-Q1-2023.pdf",
+      "size_bytes": 609787
+    },
+    {
+      "s3_key": "fsja-reports/CAB-Unaudited-Report-as-at-September-30-2023.pdf",
+      "local_path": "financial_pdfs/raw/CAB-Unaudited-Report-as-at-September-30-2023.pdf",
+      "filename": "CAB-Unaudited-Report-as-at-September-30-2023.pdf",
+      "size_bytes": 1529408
+    },
+    {
+      "s3_key": "fsja-reports/SCI2019-Annual-Report.pdf",
+      "local_path": "financial_pdfs/raw/SCI2019-Annual-Report.pdf",
+      "filename": "SCI2019-Annual-Report.pdf",
+      "size_bytes": 4426013
+    },
+    {
+      "s3_key": "fsja-reports/Sagicor-Select-MD-Q2-2023.pdf",
+      "local_path": "financial_pdfs/raw/Sagicor-Select-MD-Q2-2023.pdf",
+      "filename": "Sagicor-Select-MD-Q2-2023.pdf",
+      "size_bytes": 1063001
+    },
+    {
+      "s3_key": "fsja-reports/Mailpac-Group-Limited-1st-Quarter-2022-JSE-Report-1.pdf",
+      "local_path": "financial_pdfs/raw/Mailpac-Group-Limited-1st-Quarter-2022-JSE-Report-1.pdf",
+      "filename": "Mailpac-Group-Limited-1st-Quarter-2022-JSE-Report-1.pdf",
+      "size_bytes": 415513
+    },
+    {
+      "s3_key": "fsja-reports/BaritaInvestmentsLimited-FinancialReport-JUN-30-2023-2.pdf",
+      "local_path": "financial_pdfs/raw/BaritaInvestmentsLimited-FinancialReport-JUN-30-2023-2.pdf",
+      "filename": "BaritaInvestmentsLimited-FinancialReport-JUN-30-2023-2.pdf",
+      "size_bytes": 14838747
+    },
+    {
+      "s3_key": "fsja-reports/PROVEN_2023-Annual-Report.pdf",
+      "local_path": "financial_pdfs/raw/PROVEN_2023-Annual-Report.pdf",
+      "filename": "PROVEN_2023-Annual-Report.pdf",
+      "size_bytes": 12936838
+    },
+    {
+      "s3_key": "fsja-reports/KEY-Q2-Unaudited-Financials-for-period-ended-30-June-2022.pdf",
+      "local_path": "financial_pdfs/raw/KEY-Q2-Unaudited-Financials-for-period-ended-30-June-2022.pdf",
+      "filename": "KEY-Q2-Unaudited-Financials-for-period-ended-30-June-2022.pdf",
+      "size_bytes": 184952
+    },
+    {
+      "s3_key": "fsja-reports/2022-CHL-June-30-Q3.pdf",
+      "local_path": "financial_pdfs/raw/2022-CHL-June-30-Q3.pdf",
+      "filename": "2022-CHL-June-30-Q3.pdf",
+      "size_bytes": 698096
+    },
+    {
+      "s3_key": "fsja-reports/2022-CBL-signed-FS-300622.pdf",
+      "local_path": "financial_pdfs/raw/2022-CBL-signed-FS-300622.pdf",
+      "filename": "2022-CBL-signed-FS-300622.pdf",
+      "size_bytes": 778981
+    },
+    {
+      "s3_key": "fsja-reports/Berger-Paints-Jamaica-Limited-Unaudited-Financial-Statements-Q1-2022.pdf",
+      "local_path": "financial_pdfs/raw/Berger-Paints-Jamaica-Limited-Unaudited-Financial-Statements-Q1-2022.pdf",
+      "filename": "Berger-Paints-Jamaica-Limited-Unaudited-Financial-Statements-Q1-2022.pdf",
+      "size_bytes": 2360611
+    },
+    {
+      "s3_key": "fsja-reports/Eppley-Quarterly-Release-March-2022.pdf",
+      "local_path": "financial_pdfs/raw/Eppley-Quarterly-Release-March-2022.pdf",
+      "filename": "Eppley-Quarterly-Release-March-2022.pdf",
+      "size_bytes": 1162991
+    },
+    {
+      "s3_key": "fsja-reports/FCH_Financial-Statement-SEPT2021.pdf",
+      "local_path": "financial_pdfs/raw/FCH_Financial-Statement-SEPT2021.pdf",
+      "filename": "FCH_Financial-Statement-SEPT2021.pdf",
+      "size_bytes": 476411
+    },
+    {
+      "s3_key": "fsja-reports/MAIN-EVENT-2020-ANNUAL-REPORT.pdf",
+      "local_path": "financial_pdfs/raw/MAIN-EVENT-2020-ANNUAL-REPORT.pdf",
+      "filename": "MAIN-EVENT-2020-ANNUAL-REPORT.pdf",
+      "size_bytes": 10310223
+    },
+    {
+      "s3_key": "fsja-reports/PanJam-2019-Annual_Report.pdf",
+      "local_path": "financial_pdfs/raw/PanJam-2019-Annual_Report.pdf",
+      "filename": "PanJam-2019-Annual_Report.pdf",
+      "size_bytes": 6303119
+    },
+    {
+      "s3_key": "fsja-reports/2022-CAC-2000-Limited-Q2-Report-YE-Oct-31-2022-signed.pdf",
+      "local_path": "financial_pdfs/raw/2022-CAC-2000-Limited-Q2-Report-YE-Oct-31-2022-signed.pdf",
+      "filename": "2022-CAC-2000-Limited-Q2-Report-YE-Oct-31-2022-signed.pdf",
+      "size_bytes": 657586
+    },
+    {
+      "s3_key": "fsja-reports/NCB-Financial-Group-Limited-NCBFG-Unaudited-Financial-Results-Nine-Months-Ended-June-30-2022_.pdf",
+      "local_path": "financial_pdfs/raw/NCB-Financial-Group-Limited-NCBFG-Unaudited-Financial-Results-Nine-Months-Ended-June-30-2022_.pdf",
+      "filename": "NCB-Financial-Group-Limited-NCBFG-Unaudited-Financial-Results-Nine-Months-Ended-June-30-2022_.pdf",
+      "size_bytes": 1138560
+    },
+    {
+      "s3_key": "fsja-reports/Edufocal-Group-Third-Quarter-2023_Signed.pdf",
+      "local_path": "financial_pdfs/raw/Edufocal-Group-Third-Quarter-2023_Signed.pdf",
+      "filename": "Edufocal-Group-Third-Quarter-2023_Signed.pdf",
+      "size_bytes": 4364349
+    },
+    {
+      "s3_key": "fsja-reports/STANLEY-MOTTA-LIMITED-SML-UNAUDITED-Financial-Statements-For-First-Quarter-Ended-March-31-2023-1.pdf",
+      "local_path": "financial_pdfs/raw/STANLEY-MOTTA-LIMITED-SML-UNAUDITED-Financial-Statements-For-First-Quarter-Ended-March-31-2023-1.pdf",
+      "filename": "STANLEY-MOTTA-LIMITED-SML-UNAUDITED-Financial-Statements-For-First-Quarter-Ended-March-31-2023-1.pdf",
+      "size_bytes": 145427
+    },
+    {
+      "s3_key": "fsja-reports/ROC-2022-Q4Financials.pdf",
+      "local_path": "financial_pdfs/raw/ROC-2022-Q4Financials.pdf",
+      "filename": "ROC-2022-Q4Financials.pdf",
+      "size_bytes": 167827
+    },
+    {
+      "s3_key": "fsja-reports/SOS-Unaudited-2nd-Qtr-2023-Signed-Revised.pdf",
+      "local_path": "financial_pdfs/raw/SOS-Unaudited-2nd-Qtr-2023-Signed-Revised.pdf",
+      "filename": "SOS-Unaudited-2nd-Qtr-2023-Signed-Revised.pdf",
+      "size_bytes": 2004324
+    },
+    {
+      "s3_key": "fsja-reports/iCreate-Limited-Unaudited-Financial-Results-at-30-June-2023-Finalised.pdf",
+      "local_path": "financial_pdfs/raw/iCreate-Limited-Unaudited-Financial-Results-at-30-June-2023-Finalised.pdf",
+      "filename": "iCreate-Limited-Unaudited-Financial-Results-at-30-June-2023-Finalised.pdf",
+      "size_bytes": 591534
+    },
+    {
+      "s3_key": "fsja-reports/KEY-Ins-Q3-September-2023-Unaudited-Financial-Statements.pdf",
+      "local_path": "financial_pdfs/raw/KEY-Ins-Q3-September-2023-Unaudited-Financial-Statements.pdf",
+      "filename": "KEY-Ins-Q3-September-2023-Unaudited-Financial-Statements.pdf",
+      "size_bytes": 307980
+    },
+    {
+      "s3_key": "fsja-reports/Eppley-Quarterly-Release-September-2022.pdf",
+      "local_path": "financial_pdfs/raw/Eppley-Quarterly-Release-September-2022.pdf",
+      "filename": "Eppley-Quarterly-Release-September-2022.pdf",
+      "size_bytes": 1421304
+    },
+    {
+      "s3_key": "fsja-reports/Key-Insurance-Company-Financial-Statements-2019.pdf",
+      "local_path": "financial_pdfs/raw/Key-Insurance-Company-Financial-Statements-2019.pdf",
+      "filename": "Key-Insurance-Company-Financial-Statements-2019.pdf",
+      "size_bytes": 805188
+    },
+    {
+      "s3_key": "fsja-reports/PROVEN_2022-Annual-Report.pdf",
+      "local_path": "financial_pdfs/raw/PROVEN_2022-Annual-Report.pdf",
+      "filename": "PROVEN_2022-Annual-Report.pdf",
+      "size_bytes": 7118973
+    },
+    {
+      "s3_key": "fsja-reports/GHL-Financials-1.pdf",
+      "local_path": "financial_pdfs/raw/GHL-Financials-1.pdf",
+      "filename": "GHL-Financials-1.pdf",
+      "size_bytes": 1658654
+    },
+    {
+      "s3_key": "fsja-reports/UNAUDITED-STATEMENT-OF-COMPREHENSIVE-INCOME-FREBRUARY-2022.pdf",
+      "local_path": "financial_pdfs/raw/UNAUDITED-STATEMENT-OF-COMPREHENSIVE-INCOME-FREBRUARY-2022.pdf",
+      "filename": "UNAUDITED-STATEMENT-OF-COMPREHENSIVE-INCOME-FREBRUARY-2022.pdf",
+      "size_bytes": 2462848
+    },
+    {
+      "s3_key": "fsja-reports/138-Student-Living-Jamaica-Audited-Finacials-for-Year-Ended-30-September-2021.pdf",
+      "local_path": "financial_pdfs/raw/138-Student-Living-Jamaica-Audited-Finacials-for-Year-Ended-30-September-2021.pdf",
+      "filename": "138-Student-Living-Jamaica-Audited-Finacials-for-Year-Ended-30-September-2021.pdf",
+      "size_bytes": 3267883
+    },
+    {
+      "s3_key": "fsja-reports/Spur-Tree-Spices-Directors-Report-Q2-Signed-FINAL_compressed.pdf",
+      "local_path": "financial_pdfs/raw/Spur-Tree-Spices-Directors-Report-Q2-Signed-FINAL_compressed.pdf",
+      "filename": "Spur-Tree-Spices-Directors-Report-Q2-Signed-FINAL_compressed.pdf",
+      "size_bytes": 1021224
+    },
+    {
+      "s3_key": "fsja-reports/Tropical-Battery-Annual-Report-2022-.pdf",
+      "local_path": "financial_pdfs/raw/Tropical-Battery-Annual-Report-2022-.pdf",
+      "filename": "Tropical-Battery-Annual-Report-2022-.pdf",
+      "size_bytes": 11245331
+    },
+    {
+      "s3_key": "fsja-reports/Carreras-Limited-signed-FS_2019.pdf",
+      "local_path": "financial_pdfs/raw/Carreras-Limited-signed-FS_2019.pdf",
+      "filename": "Carreras-Limited-signed-FS_2019.pdf",
+      "size_bytes": 476859
+    },
+    {
+      "s3_key": "fsja-reports/SML-JSE-Quarterly-Report-as-at-March-31-2022.pdf",
+      "local_path": "financial_pdfs/raw/SML-JSE-Quarterly-Report-as-at-March-31-2022.pdf",
+      "filename": "SML-JSE-Quarterly-Report-as-at-March-31-2022.pdf",
+      "size_bytes": 1869356
+    },
+    {
+      "s3_key": "fsja-reports/iCreate-Limited-Q3-Unaudited-Financial-Statements-Nov-2022.pdf",
+      "local_path": "financial_pdfs/raw/iCreate-Limited-Q3-Unaudited-Financial-Statements-Nov-2022.pdf",
+      "filename": "iCreate-Limited-Q3-Unaudited-Financial-Statements-Nov-2022.pdf",
+      "size_bytes": 1996870
+    },
+    {
+      "s3_key": "fsja-reports/IronRock-Annual-Report-2018-1.pdf",
+      "local_path": "financial_pdfs/raw/IronRock-Annual-Report-2018-1.pdf",
+      "filename": "IronRock-Annual-Report-2018-1.pdf",
+      "size_bytes": 22959672
+    },
+    {
+      "s3_key": "fsja-reports/Wigton-Windfarm-Limited-Annual-Report-2021.pdf",
+      "local_path": "financial_pdfs/raw/Wigton-Windfarm-Limited-Annual-Report-2021.pdf",
+      "filename": "Wigton-Windfarm-Limited-Annual-Report-2021.pdf",
+      "size_bytes": 15684378
+    },
+    {
+      "s3_key": "fsja-reports/Caribbean-Flavours-Fragrances-Limited-Annual-Report-2020-Final-Web.pdf",
+      "local_path": "financial_pdfs/raw/Caribbean-Flavours-Fragrances-Limited-Annual-Report-2020-Final-Web.pdf",
+      "filename": "Caribbean-Flavours-Fragrances-Limited-Annual-Report-2020-Final-Web.pdf",
+      "size_bytes": 6017251
+    },
+    {
+      "s3_key": "fsja-reports/Eppley-Limited-Quarterly-Release-June-2023.pdf",
+      "local_path": "financial_pdfs/raw/Eppley-Limited-Quarterly-Release-June-2023.pdf",
+      "filename": "Eppley-Limited-Quarterly-Release-June-2023.pdf",
+      "size_bytes": 1409969
+    },
+    {
+      "s3_key": "fsja-reports/Spur-Tree-Spices-Q1-March-2023-Report.pdf",
+      "local_path": "financial_pdfs/raw/Spur-Tree-Spices-Q1-March-2023-Report.pdf",
+      "filename": "Spur-Tree-Spices-Q1-March-2023-Report.pdf",
+      "size_bytes": 655629
+    },
+    {
+      "s3_key": "fsja-reports/Image-Plus-3rd-Quarter-Interim-Report-November-30-2022_Corrected-Statement-of-Changes-in-Equity-Sheet_10Feb23.pdf",
+      "local_path": "financial_pdfs/raw/Image-Plus-3rd-Quarter-Interim-Report-November-30-2022_Corrected-Statement-of-Changes-in-Equity-Sheet_10Feb23.pdf",
+      "filename": "Image-Plus-3rd-Quarter-Interim-Report-November-30-2022_Corrected-Statement-of-Changes-in-Equity-Sheet_10Feb23.pdf",
+      "size_bytes": 228420
+    },
+    {
+      "s3_key": "fsja-reports/replaced_BaritaInvestmentsLtdFinReport6MonthsEndingMARCH312022MAY-18-2022UPDATED-v7.pdf",
+      "local_path": "financial_pdfs/raw/replaced_BaritaInvestmentsLtdFinReport6MonthsEndingMARCH312022MAY-18-2022UPDATED-v7.pdf",
+      "filename": "replaced_BaritaInvestmentsLtdFinReport6MonthsEndingMARCH312022MAY-18-2022UPDATED-v7.pdf",
+      "size_bytes": 4083992
+    },
+    {
+      "s3_key": "fsja-reports/Berger-Paints-Jamaica-Limited-3rd-Quarter-Financials-2021.pdf",
+      "local_path": "financial_pdfs/raw/Berger-Paints-Jamaica-Limited-3rd-Quarter-Financials-2021.pdf",
+      "filename": "Berger-Paints-Jamaica-Limited-3rd-Quarter-Financials-2021.pdf",
+      "size_bytes": 358657
+    },
+    {
+      "s3_key": "fsja-reports/JPG-Consolidated-FS-2019.pdf",
+      "local_path": "financial_pdfs/raw/JPG-Consolidated-FS-2019.pdf",
+      "filename": "JPG-Consolidated-FS-2019.pdf",
+      "size_bytes": 427076
+    },
+    {
+      "s3_key": "fsja-reports/Blue-Power-Group-Limited-BPOW-2021-Annual-Report-2.pdf",
+      "local_path": "financial_pdfs/raw/Blue-Power-Group-Limited-BPOW-2021-Annual-Report-2.pdf",
+      "filename": "Blue-Power-Group-Limited-BPOW-2021-Annual-Report-2.pdf",
+      "size_bytes": 11150544
+    },
+    {
+      "s3_key": "fsja-reports/JFP-Limited-1st-Quarterly-Report-for-Period-Ended-March-31-2023-v-15.5.2023.pdf",
+      "local_path": "financial_pdfs/raw/JFP-Limited-1st-Quarterly-Report-for-Period-Ended-March-31-2023-v-15.5.2023.pdf",
+      "filename": "JFP-Limited-1st-Quarterly-Report-for-Period-Ended-March-31-2023-v-15.5.2023.pdf",
+      "size_bytes": 1113740
+    },
+    {
+      "s3_key": "fsja-reports/JAMT-ANNUAL-REPORT-2021.pdf",
+      "local_path": "financial_pdfs/raw/JAMT-ANNUAL-REPORT-2021.pdf",
+      "filename": "JAMT-ANNUAL-REPORT-2021.pdf",
+      "size_bytes": 9767626
+    },
+    {
+      "s3_key": "fsja-reports/PanJam-2021-AnnualReport_StockEX.pdf",
+      "local_path": "financial_pdfs/raw/PanJam-2021-AnnualReport_StockEX.pdf",
+      "filename": "PanJam-2021-AnnualReport_StockEX.pdf",
+      "size_bytes": 16277938
+    },
+    {
+      "s3_key": "fsja-reports/FosRich-Q1-2023-MDA-.pdf",
+      "local_path": "financial_pdfs/raw/FosRich-Q1-2023-MDA-.pdf",
+      "filename": "FosRich-Q1-2023-MDA-.pdf",
+      "size_bytes": 198541
+    },
+    {
+      "s3_key": "fsja-reports/Twelve-Months_INDIES-PHARMA_Inhouse-Financials_-Period_Ending-Oct-2023.pdf",
+      "local_path": "financial_pdfs/raw/Twelve-Months_INDIES-PHARMA_Inhouse-Financials_-Period_Ending-Oct-2023.pdf",
+      "filename": "Twelve-Months_INDIES-PHARMA_Inhouse-Financials_-Period_Ending-Oct-2023.pdf",
+      "size_bytes": 571773
+    },
+    {
+      "s3_key": "fsja-reports/2023-Cargo-Handlers-Q3.pdf",
+      "local_path": "financial_pdfs/raw/2023-Cargo-Handlers-Q3.pdf",
+      "filename": "2023-Cargo-Handlers-Q3.pdf",
+      "size_bytes": 1680862
+    },
+    {
+      "s3_key": "fsja-reports/Sagicor-Group-Jamaica-Limited-SJ-Unaudited-Financial-Statements-as-at-Second-Quarter-Ended-June-30-2023.pdf",
+      "local_path": "financial_pdfs/raw/Sagicor-Group-Jamaica-Limited-SJ-Unaudited-Financial-Statements-as-at-Second-Quarter-Ended-June-30-2023.pdf",
+      "filename": "Sagicor-Group-Jamaica-Limited-SJ-Unaudited-Financial-Statements-as-at-Second-Quarter-Ended-June-30-2023.pdf",
+      "size_bytes": 1672805
+    },
+    {
+      "s3_key": "fsja-reports/Kingston-Wharves-Limited-KWL-Unaudited-Results-Q1-2023.pdf",
+      "local_path": "financial_pdfs/raw/Kingston-Wharves-Limited-KWL-Unaudited-Results-Q1-2023.pdf",
+      "filename": "Kingston-Wharves-Limited-KWL-Unaudited-Results-Q1-2023.pdf",
+      "size_bytes": 275902
+    },
+    {
+      "s3_key": "fsja-reports/MPC-CCEL_Annual_Report-2020.pdf",
+      "local_path": "financial_pdfs/raw/MPC-CCEL_Annual_Report-2020.pdf",
+      "filename": "MPC-CCEL_Annual_Report-2020.pdf",
+      "size_bytes": 2525159
+    },
+    {
+      "s3_key": "fsja-reports/CCC-CONSOLIDATED-UNAUDITED-INTERIM-FINANCIAL-REPORT-FOR-THE-SIX-MONTHS-ENDED-JUNE-30-2023.pdf",
+      "local_path": "financial_pdfs/raw/CCC-CONSOLIDATED-UNAUDITED-INTERIM-FINANCIAL-REPORT-FOR-THE-SIX-MONTHS-ENDED-JUNE-30-2023.pdf",
+      "filename": "CCC-CONSOLIDATED-UNAUDITED-INTERIM-FINANCIAL-REPORT-FOR-THE-SIX-MONTHS-ENDED-JUNE-30-2023.pdf",
+      "size_bytes": 302958
+    },
+    {
+      "s3_key": "fsja-reports/JPG-3rd-Quarter-Results-JSE-Disclosure.pdf",
+      "local_path": "financial_pdfs/raw/JPG-3rd-Quarter-Results-JSE-Disclosure.pdf",
+      "filename": "JPG-3rd-Quarter-Results-JSE-Disclosure.pdf",
+      "size_bytes": 1683546
+    },
+    {
+      "s3_key": "fsja-reports/BPOW-RESULTS-AS-AT-JULY-31-2022.pdf",
+      "local_path": "financial_pdfs/raw/BPOW-RESULTS-AS-AT-JULY-31-2022.pdf",
+      "filename": "BPOW-RESULTS-AS-AT-JULY-31-2022.pdf",
+      "size_bytes": 3442648
+    },
+    {
+      "s3_key": "fsja-reports/Mailpac-Quarterly-Report-June-2022.pdf",
+      "local_path": "financial_pdfs/raw/Mailpac-Quarterly-Report-June-2022.pdf",
+      "filename": "Mailpac-Quarterly-Report-June-2022.pdf",
+      "size_bytes": 553192
+    },
+    {
+      "s3_key": "fsja-reports/GK-AR-2020.pdf",
+      "local_path": "financial_pdfs/raw/GK-AR-2020.pdf",
+      "filename": "GK-AR-2020.pdf",
+      "size_bytes": 17616655
+    },
+    {
+      "s3_key": "fsja-reports/Purity-2018-Annual-Report.pdf",
+      "local_path": "financial_pdfs/raw/Purity-2018-Annual-Report.pdf",
+      "filename": "Purity-2018-Annual-Report.pdf",
+      "size_bytes": 2573116
+    },
+    {
+      "s3_key": "fsja-reports/Portland-JSX-Ltd-Quarter-Ended-FS-Aug-2023.pdf",
+      "local_path": "financial_pdfs/raw/Portland-JSX-Ltd-Quarter-Ended-FS-Aug-2023.pdf",
+      "filename": "Portland-JSX-Ltd-Quarter-Ended-FS-Aug-2023.pdf",
+      "size_bytes": 1304623
+    },
+    {
+      "s3_key": "fsja-reports/JFP-Limited-3rd-Quarterly-Report-for-Period-Ended-September-30-2022-.pdf",
+      "local_path": "financial_pdfs/raw/JFP-Limited-3rd-Quarterly-Report-for-Period-Ended-September-30-2022-.pdf",
+      "filename": "JFP-Limited-3rd-Quarterly-Report-for-Period-Ended-September-30-2022-.pdf",
+      "size_bytes": 4281361
+    },
+    {
+      "s3_key": "fsja-reports/PARAMOUNT-TRADING-JAMAICA-LIMITED-ANNUAL-REPORT-2022.pdf",
+      "local_path": "financial_pdfs/raw/PARAMOUNT-TRADING-JAMAICA-LIMITED-ANNUAL-REPORT-2022.pdf",
+      "filename": "PARAMOUNT-TRADING-JAMAICA-LIMITED-ANNUAL-REPORT-2022.pdf",
+      "size_bytes": 7666530
+    },
+    {
+      "s3_key": "fsja-reports/ECL_2020-Annual-Report_WEB.pdf",
+      "local_path": "financial_pdfs/raw/ECL_2020-Annual-Report_WEB.pdf",
+      "filename": "ECL_2020-Annual-Report_WEB.pdf",
+      "size_bytes": 2229698
+    },
+    {
+      "s3_key": "fsja-reports/SOS_2018-Annual-Report.pdf",
+      "local_path": "financial_pdfs/raw/SOS_2018-Annual-Report.pdf",
+      "filename": "SOS_2018-Annual-Report.pdf",
+      "size_bytes": 2211593
+    },
+    {
+      "s3_key": "fsja-reports/BPJL-Audited-Financial-Statements-for-the-Year-Ended-December-31st-2022.pdf",
+      "local_path": "financial_pdfs/raw/BPJL-Audited-Financial-Statements-for-the-Year-Ended-December-31st-2022.pdf",
+      "filename": "BPJL-Audited-Financial-Statements-for-the-Year-Ended-December-31st-2022.pdf",
+      "size_bytes": 587855
+    },
+    {
+      "s3_key": "fsja-reports/2023-June-30-DCOVE-Quarterly-Report-to-the-Jamaica-Stock-Exchange.pdf",
+      "local_path": "financial_pdfs/raw/2023-June-30-DCOVE-Quarterly-Report-to-the-Jamaica-Stock-Exchange.pdf",
+      "filename": "2023-June-30-DCOVE-Quarterly-Report-to-the-Jamaica-Stock-Exchange.pdf",
+      "size_bytes": 1346454
+    },
+    {
+      "s3_key": "fsja-reports/Regency-Petroleum-Company.-Limited-Quarterly-Report-Q3-2023.pdf",
+      "local_path": "financial_pdfs/raw/Regency-Petroleum-Company.-Limited-Quarterly-Report-Q3-2023.pdf",
+      "filename": "Regency-Petroleum-Company.-Limited-Quarterly-Report-Q3-2023.pdf",
+      "size_bytes": 12866982
+    },
+    {
+      "s3_key": "fsja-reports/EverythingFresh_2020Annual-Report_final_web.pdf",
+      "local_path": "financial_pdfs/raw/EverythingFresh_2020Annual-Report_final_web.pdf",
+      "filename": "EverythingFresh_2020Annual-Report_final_web.pdf",
+      "size_bytes": 5160329
+    },
+    {
+      "s3_key": "fsja-reports/Sterling-Investments-Limited-Annual-Report-2019-1.pdf",
+      "local_path": "financial_pdfs/raw/Sterling-Investments-Limited-Annual-Report-2019-1.pdf",
+      "filename": "Sterling-Investments-Limited-Annual-Report-2019-1.pdf",
+      "size_bytes": 4837543
+    },
+    {
+      "s3_key": "fsja-reports/GK-2nd-Quarter-for-the-Period-Jan-Jun-2022.pdf",
+      "local_path": "financial_pdfs/raw/GK-2nd-Quarter-for-the-Period-Jan-Jun-2022.pdf",
+      "filename": "GK-2nd-Quarter-for-the-Period-Jan-Jun-2022.pdf",
+      "size_bytes": 412156
+    },
+    {
+      "s3_key": "fsja-reports/BPOW-RESULTS-AS-AT-JULY-31-2023.pdf",
+      "local_path": "financial_pdfs/raw/BPOW-RESULTS-AS-AT-JULY-31-2023.pdf",
+      "filename": "BPOW-RESULTS-AS-AT-JULY-31-2023.pdf",
+      "size_bytes": 2920950
+    },
+    {
+      "s3_key": "fsja-reports/edufocal_group_third_quarter_2022_FINAL_Nov_16.pdf",
+      "local_path": "financial_pdfs/raw/edufocal_group_third_quarter_2022_FINAL_Nov_16.pdf",
+      "filename": "edufocal_group_third_quarter_2022_FINAL_Nov_16.pdf",
+      "size_bytes": 1027508
+    },
+    {
+      "s3_key": "fsja-reports/CAB-Unaudited-Report-as-at-JUNE-30-2023-signed-a.pdf",
+      "local_path": "financial_pdfs/raw/CAB-Unaudited-Report-as-at-JUNE-30-2023-signed-a.pdf",
+      "filename": "CAB-Unaudited-Report-as-at-JUNE-30-2023-signed-a.pdf",
+      "size_bytes": 1487058
+    },
+    {
+      "s3_key": "fsja-reports/VM-Investments-Ltd_Annual-Report_2021_WEB_April-29.pdf",
+      "local_path": "financial_pdfs/raw/VM-Investments-Ltd_Annual-Report_2021_WEB_April-29.pdf",
+      "filename": "VM-Investments-Ltd_Annual-Report_2021_WEB_April-29.pdf",
+      "size_bytes": 6590784
+    },
+    {
+      "s3_key": "fsja-reports/VMIL-JSE-Press-Release-Q3-2023-.pdf",
+      "local_path": "financial_pdfs/raw/VMIL-JSE-Press-Release-Q3-2023-.pdf",
+      "filename": "VMIL-JSE-Press-Release-Q3-2023-.pdf",
+      "size_bytes": 2111321
+    },
+    {
+      "s3_key": "fsja-reports/Kingston-Properties-Limited-Audited-Financial-Statements-December-31-2021.pdf",
+      "local_path": "financial_pdfs/raw/Kingston-Properties-Limited-Audited-Financial-Statements-December-31-2021.pdf",
+      "filename": "Kingston-Properties-Limited-Audited-Financial-Statements-December-31-2021.pdf",
+      "size_bytes": 669414
+    },
+    {
+      "s3_key": "fsja-reports/QWI-Annual-Report-2020.pdf",
+      "local_path": "financial_pdfs/raw/QWI-Annual-Report-2020.pdf",
+      "filename": "QWI-Annual-Report-2020.pdf",
+      "size_bytes": 5011737
+    },
+    {
+      "s3_key": "fsja-reports/JMMB-GL-Annual-Report_2023_FB.pdf",
+      "local_path": "financial_pdfs/raw/JMMB-GL-Annual-Report_2023_FB.pdf",
+      "filename": "JMMB-GL-Annual-Report_2023_FB.pdf",
+      "size_bytes": 16875266
+    },
+    {
+      "s3_key": "fsja-reports/Ciboney-Group-FS-2019signed.pdf",
+      "local_path": "financial_pdfs/raw/Ciboney-Group-FS-2019signed.pdf",
+      "filename": "Ciboney-Group-FS-2019signed.pdf",
+      "size_bytes": 1423423
+    },
+    {
+      "s3_key": "fsja-reports/JMMB-Group-Limited-Unaudited-Financial-Statements-for-the-quarter-ended-December-31-2022.pdf",
+      "local_path": "financial_pdfs/raw/JMMB-Group-Limited-Unaudited-Financial-Statements-for-the-quarter-ended-December-31-2022.pdf",
+      "filename": "JMMB-Group-Limited-Unaudited-Financial-Statements-for-the-quarter-ended-December-31-2022.pdf",
+      "size_bytes": 568383
+    },
+    {
+      "s3_key": "fsja-reports/JBG-Q3-2022-2023-Interim-Report-to-Shareholders.pdf",
+      "local_path": "financial_pdfs/raw/JBG-Q3-2022-2023-Interim-Report-to-Shareholders.pdf",
+      "filename": "JBG-Q3-2022-2023-Interim-Report-to-Shareholders.pdf",
+      "size_bytes": 739368
+    },
+    {
+      "s3_key": "fsja-reports/Elite-Diagnostics-Limited-2nd-Quarter-Interim-Report-December-2022.pdf",
+      "local_path": "financial_pdfs/raw/Elite-Diagnostics-Limited-2nd-Quarter-Interim-Report-December-2022.pdf",
+      "filename": "Elite-Diagnostics-Limited-2nd-Quarter-Interim-Report-December-2022.pdf",
+      "size_bytes": 194222
+    },
+    {
+      "s3_key": "fsja-reports/SCI-2022-AGM-Annual-Report_WEB.pdf",
+      "local_path": "financial_pdfs/raw/SCI-2022-AGM-Annual-Report_WEB.pdf",
+      "filename": "SCI-2022-AGM-Annual-Report_WEB.pdf",
+      "size_bytes": 2713986
+    },
+    {
+      "s3_key": "fsja-reports/FosRich-Q3-2023-MDA.pdf",
+      "local_path": "financial_pdfs/raw/FosRich-Q3-2023-MDA.pdf",
+      "filename": "FosRich-Q3-2023-MDA.pdf",
+      "size_bytes": 401045
+    },
+    {
+      "s3_key": "fsja-reports/Wigton-Windfarm-Limited-WIG-Unaudited-Financial-Statements-for-the-Quarter-ended-30-September-2023-1.pdf",
+      "local_path": "financial_pdfs/raw/Wigton-Windfarm-Limited-WIG-Unaudited-Financial-Statements-for-the-Quarter-ended-30-September-2023-1.pdf",
+      "filename": "Wigton-Windfarm-Limited-WIG-Unaudited-Financial-Statements-for-the-Quarter-ended-30-September-2023-1.pdf",
+      "size_bytes": 648917
+    },
+    {
+      "s3_key": "fsja-reports/SCOTIA-GROUP-MEDIA-RELEASE-Q3-2023.pdf",
+      "local_path": "financial_pdfs/raw/SCOTIA-GROUP-MEDIA-RELEASE-Q3-2023.pdf",
+      "filename": "SCOTIA-GROUP-MEDIA-RELEASE-Q3-2023.pdf",
+      "size_bytes": 2898382
+    },
+    {
+      "s3_key": "fsja-reports/ROC-2022-Q2.pdf",
+      "local_path": "financial_pdfs/raw/ROC-2022-Q2.pdf",
+      "filename": "ROC-2022-Q2.pdf",
+      "size_bytes": 512082
+    },
+    {
+      "s3_key": "fsja-reports/BPJL-Unaudited-Financial-Results-As-at-March-31-2023.pdf",
+      "local_path": "financial_pdfs/raw/BPJL-Unaudited-Financial-Results-As-at-March-31-2023.pdf",
+      "filename": "BPJL-Unaudited-Financial-Results-As-at-March-31-2023.pdf",
+      "size_bytes": 720665
+    },
+    {
+      "s3_key": "fsja-reports/PanJam_Q2-2022-Financial-Reports_JSE.pdf",
+      "local_path": "financial_pdfs/raw/PanJam_Q2-2022-Financial-Reports_JSE.pdf",
+      "filename": "PanJam_Q2-2022-Financial-Reports_JSE.pdf",
+      "size_bytes": 3994535
+    },
+    {
+      "s3_key": "fsja-reports/TJH-Group-Unaudited-Financial-Statement-Q1-2023.pdf",
+      "local_path": "financial_pdfs/raw/TJH-Group-Unaudited-Financial-Statement-Q1-2023.pdf",
+      "filename": "TJH-Group-Unaudited-Financial-Statement-Q1-2023.pdf",
+      "size_bytes": 1925229
+    },
+    {
+      "s3_key": "fsja-reports/DTL-Unaudited-Consolidated-Financial-Statements-Q1-2023-_Final-2.pdf",
+      "local_path": "financial_pdfs/raw/DTL-Unaudited-Consolidated-Financial-Statements-Q1-2023-_Final-2.pdf",
+      "filename": "DTL-Unaudited-Consolidated-Financial-Statements-Q1-2023-_Final-2.pdf",
+      "size_bytes": 1658570
+    },
+    {
+      "s3_key": "fsja-reports/MFS-Unaudited-3rd-Quarter-Report-31-Mar-2023.pdf",
+      "local_path": "financial_pdfs/raw/MFS-Unaudited-3rd-Quarter-Report-31-Mar-2023.pdf",
+      "filename": "MFS-Unaudited-3rd-Quarter-Report-31-Mar-2023.pdf",
+      "size_bytes": 1324865
+    },
+    {
+      "s3_key": "fsja-reports/Sagicor-Group-Jamaica-Limited-SJ-Unaudited-Financial-Statements-as-at-First-Quarter-Ended-March-31-2023.pdf",
+      "local_path": "financial_pdfs/raw/Sagicor-Group-Jamaica-Limited-SJ-Unaudited-Financial-Statements-as-at-First-Quarter-Ended-March-31-2023.pdf",
+      "filename": "Sagicor-Group-Jamaica-Limited-SJ-Unaudited-Financial-Statements-as-at-First-Quarter-Ended-March-31-2023.pdf",
+      "size_bytes": 933757
+    },
+    {
+      "s3_key": "fsja-reports/tTech-Limited-2022-Annual-Report-1.pdf",
+      "local_path": "financial_pdfs/raw/tTech-Limited-2022-Annual-Report-1.pdf",
+      "filename": "tTech-Limited-2022-Annual-Report-1.pdf",
+      "size_bytes": 5390732
+    },
+    {
+      "s3_key": "fsja-reports/Ciboney-Group-Ltd-May-31-2023-Finalised-FS.pdf",
+      "local_path": "financial_pdfs/raw/Ciboney-Group-Ltd-May-31-2023-Finalised-FS.pdf",
+      "filename": "Ciboney-Group-Ltd-May-31-2023-Finalised-FS.pdf",
+      "size_bytes": 6016006
+    },
+    {
+      "s3_key": "fsja-reports/Kingston-Wharves-Limited-KWL-Unaudited-Results-Q3-2022.pdf",
+      "local_path": "financial_pdfs/raw/Kingston-Wharves-Limited-KWL-Unaudited-Results-Q3-2022.pdf",
+      "filename": "Kingston-Wharves-Limited-KWL-Unaudited-Results-Q3-2022.pdf",
+      "size_bytes": 249695
+    },
+    {
+      "s3_key": "fsja-reports/JPG-Consolidated-FS-2018.pdf",
+      "local_path": "financial_pdfs/raw/JPG-Consolidated-FS-2018.pdf",
+      "filename": "JPG-Consolidated-FS-2018.pdf",
+      "size_bytes": 483260
+    },
+    {
+      "s3_key": "fsja-reports/Fosrich-Q3-2022.pdf",
+      "local_path": "financial_pdfs/raw/Fosrich-Q3-2022.pdf",
+      "filename": "Fosrich-Q3-2022.pdf",
+      "size_bytes": 220586
+    },
+    {
+      "s3_key": "fsja-reports/QWI-Q3-Report-2022.pdf",
+      "local_path": "financial_pdfs/raw/QWI-Q3-Report-2022.pdf",
+      "filename": "QWI-Q3-Report-2022.pdf",
+      "size_bytes": 656192
+    },
+    {
+      "s3_key": "fsja-reports/SIL_Annual-Report-2020-webFinal.pdf",
+      "local_path": "financial_pdfs/raw/SIL_Annual-Report-2020-webFinal.pdf",
+      "filename": "SIL_Annual-Report-2020-webFinal.pdf",
+      "size_bytes": 1510132
+    },
+    {
+      "s3_key": "fsja-reports/Mayberry-Jamaican-Equities-Limited-MJE-Unaudited-Financial-Results-for-the-Six-Months-ended-June-30-2023-JMD.pdf",
+      "local_path": "financial_pdfs/raw/Mayberry-Jamaican-Equities-Limited-MJE-Unaudited-Financial-Results-for-the-Six-Months-ended-June-30-2023-JMD.pdf",
+      "filename": "Mayberry-Jamaican-Equities-Limited-MJE-Unaudited-Financial-Results-for-the-Six-Months-ended-June-30-2023-JMD.pdf",
+      "size_bytes": 1796903
+    },
+    {
+      "s3_key": "fsja-reports/Eppley-Quarterly-Release-March-2023.pdf",
+      "local_path": "financial_pdfs/raw/Eppley-Quarterly-Release-March-2023.pdf",
+      "filename": "Eppley-Quarterly-Release-March-2023.pdf",
+      "size_bytes": 326815
+    },
+    {
+      "s3_key": "fsja-reports/SGJ-2018-Annual-Report.pdf",
+      "local_path": "financial_pdfs/raw/SGJ-2018-Annual-Report.pdf",
+      "filename": "SGJ-2018-Annual-Report.pdf",
+      "size_bytes": 2374577
+    },
+    {
+      "s3_key": "fsja-reports/IPCL-2nd-Quarter-Interim-Report-August-31-2023.pdf",
+      "local_path": "financial_pdfs/raw/IPCL-2nd-Quarter-Interim-Report-August-31-2023.pdf",
+      "filename": "IPCL-2nd-Quarter-Interim-Report-August-31-2023.pdf",
+      "size_bytes": 754387
+    },
+    {
+      "s3_key": "fsja-reports/Access-Financial-Services-Limited-Audited-Financial-Statements-for-Year-Ended-March-31-2021.pdf",
+      "local_path": "financial_pdfs/raw/Access-Financial-Services-Limited-Audited-Financial-Statements-for-Year-Ended-March-31-2021.pdf",
+      "filename": "Access-Financial-Services-Limited-Audited-Financial-Statements-for-Year-Ended-March-31-2021.pdf",
+      "size_bytes": 773797
+    },
+    {
+      "s3_key": "fsja-reports/EverythingFresh_2021_Annual-Report_final_web.pdf",
+      "local_path": "financial_pdfs/raw/EverythingFresh_2021_Annual-Report_final_web.pdf",
+      "filename": "EverythingFresh_2021_Annual-Report_final_web.pdf",
+      "size_bytes": 4033252
+    },
+    {
+      "s3_key": "fsja-reports/iCreate-Limited-Annual-Report-for-the-year-ending-December-31-2019.pdf",
+      "local_path": "financial_pdfs/raw/iCreate-Limited-Annual-Report-for-the-year-ending-December-31-2019.pdf",
+      "filename": "iCreate-Limited-Annual-Report-for-the-year-ending-December-31-2019.pdf",
+      "size_bytes": 13313940
+    },
+    {
+      "s3_key": "fsja-reports/HONBUN-2019-ANNUAL-REPORT.pdf",
+      "local_path": "financial_pdfs/raw/HONBUN-2019-ANNUAL-REPORT.pdf",
+      "filename": "HONBUN-2019-ANNUAL-REPORT.pdf",
+      "size_bytes": 8591001
+    },
+    {
+      "s3_key": "fsja-reports/Jetcon-Annual-Report-2018.pdf",
+      "local_path": "financial_pdfs/raw/Jetcon-Annual-Report-2018.pdf",
+      "filename": "Jetcon-Annual-Report-2018.pdf",
+      "size_bytes": 3704016
+    },
+    {
+      "s3_key": "fsja-reports/Fosrich-Q1-2022.pdf",
+      "local_path": "financial_pdfs/raw/Fosrich-Q1-2022.pdf",
+      "filename": "Fosrich-Q1-2022.pdf",
+      "size_bytes": 206050
+    },
+    {
+      "s3_key": "fsja-reports/Annual-Report-2022-Dolphin-Cove.pdf",
+      "local_path": "financial_pdfs/raw/Annual-Report-2022-Dolphin-Cove.pdf",
+      "filename": "Annual-Report-2022-Dolphin-Cove.pdf",
+      "size_bytes": 18262266
+    },
+    {
+      "s3_key": "fsja-reports/Eppley-Limited-2018-Annual-Report-FINAL-compressed.pdf",
+      "local_path": "financial_pdfs/raw/Eppley-Limited-2018-Annual-Report-FINAL-compressed.pdf",
+      "filename": "Eppley-Limited-2018-Annual-Report-FINAL-compressed.pdf",
+      "size_bytes": 11692085
+    }
+  ]
+}

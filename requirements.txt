@@ -1,0 +1,7 @@
+boto3>=1.28.0
+tqdm>=4.65.0
+streamlit>=1.28.0
+Pillow>=10.0.0
+pdf2image>=1.16.0
+olmocr[bench]>=0.3.0
+dspy==3.0.3
